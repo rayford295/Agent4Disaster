@@ -1,12 +1,12 @@
-# Towards Autonomous Disaster Assessment: A Cross-View Multi-Agent Pipeline for Zero-Shot Damage Diagnosis
-A Multi-Agent Framework for Multimodal Disaster Damage Assessment
+# Agent4Disaster
+Towards Autonomous Disaster Assessment: A Cross-View Multi-Agent Pipeline for Zero-Shot Damage Diagnosis
 
 <p align="center">
   <img src="https://github.com/rayford295/GeoAgent4Disaster/blob/main/figure/proposed%20framework.drawio.png" width="80%" />
 </p>
 
 ## Overview
-GeoAgent4Disaster is an autonomous multi-agent GeoAI framework designed for hyperlocal, interpretable, and near–real-time disaster assessment.  
+Agent4Disaster is an autonomous multi-agent GeoAI framework designed for hyperlocal, interpretable, and near–real-time disaster assessment.  
 The system integrates multimodal inputs—satellite imagery, street-view imagery, textual cues, and temporal change information—and performs a full pipeline of:
 
 - Disaster perception  
@@ -33,7 +33,7 @@ This repository hosts the project materials associated with our research paper.
 ---
 
 ## Project Architecture
-The GeoAgent4Disaster pipeline consists of four core agents:
+The Agent4Disaster pipeline consists of four core agents:
 
 ### 1. Disaster Perception Agent  
 Detects hazard type, identifies image mode, and plans downstream processing.
