@@ -18,6 +18,7 @@ The framework integrates **multimodal geospatial observations**, including:
 - Street-view imagery (SVI)
 - Textual and contextual cues
 - Temporal change information
+- Disaster Mapping
 
 It performs an **end-to-end disaster intelligence pipeline** including:
 
