@@ -7,19 +7,6 @@
   <img src="https://img.shields.io/badge/Zero--Shot-Multi--Agent-orange.svg" alt="Zero-Shot"/>
 </p>
 
-<p align="center">
-  <b>Yifan Yang<sup>a</sup>, Wenjing Gong<sup>b</sup>, Kaili Zhang<sup>b</sup>, Lei Zou<sup>a*</sup>, Zhengzhong Tu<sup>c</sup>, Hao Li<sup>d</sup>, Zongrong Li<sup>a</sup>, Xinyue Ye<sup>e</sup>, Bing Zhou<sup>f</sup></b>
-</p>
-
-<p align="center">
-  <sup>a</sup>Department of Geography, Texas A&M University &nbsp;|&nbsp;
-  <sup>b</sup>Department of Landscape Architecture & Urban Planning, Texas A&M University<br/>
-  <sup>c</sup>Department of Computer Science & Engineering, Texas A&M University &nbsp;|&nbsp;
-  <sup>d</sup>Department of Geography, National University of Singapore<br/>
-  <sup>e</sup>Department of Geography & the Environment, The University of Alabama &nbsp;|&nbsp;
-  <sup>f</sup>Department of Geography and Sustainability, University of Tennessee<br/>
-  *Corresponding author: <a href="mailto:lzou@tamu.edu">lzou@tamu.edu</a>
-</p>
 
 ---
 
@@ -164,18 +151,6 @@ RAPID/
 
 ## Citation
 
-If you use RAPID in your research, please cite:
-
-```bibtex
-@article{yang2026rapid,
-  title   = {RAPID: A Reproducible Multi-Agent Pipeline for Interpretable
-             Disaster Damage Assessment from Satellite and Street-View Imagery},
-  author  = {Yang, Yifan and Gong, Wenjing and Zhang, Kaili and Zou, Lei and
-             Tu, Zhengzhong and Li, Hao and Li, Zongrong and Ye, Xinyue and Zhou, Bing},
-  journal = {Under Review},
-  year    = {2026}
-}
-```
 
 ---
 
