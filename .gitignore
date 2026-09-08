@@ -9,6 +9,9 @@ paper/*
 *.docx
 *.zip
 
+# Conference deliverables that are meant to be versioned
+!CaGIS2026/*.pdf
+
 # Versioned manuscript release packages
 !paper/dist/
 paper/dist/*
